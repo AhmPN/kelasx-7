@@ -416,7 +416,7 @@
             <p>📸 Foto Bersama MPLS 😍</p>
           </div>
           <div class="gallery-item">
-            <img src="x73.jpg" alt="Foto MPLS 3">
+            <img src="x73.JPG" alt="Foto MPLS 3">
             <p>📸 Foto Bersama MPLS 😍</p>
           </div>
           <div class="gallery-item">
