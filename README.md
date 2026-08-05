@@ -401,7 +401,7 @@
         <h2>Informasi Tugas & PR Terbaru</h2>
         <div style="background: #f8fafc; border-left: 4px solid var(--primary-color); padding: 15px; border-radius: 8px; margin-bottom: 20px;">
           <h4 style="color: var(--primary-color); margin-bottom: 5px;">Pengumuman Tugas</h4>
-          <p style="color: var(--text-muted); font-size: 0.95rem;">Silakan cek secara berkala atau tanyakan langsung melalui kotak pesan jika ada tugas yang belum dimengerti.</p>
+          <p style="color: var(--text-muted); font-size: 0.95rem;">Pend.Pancasila = MENYALIN, Tulisan di buku tulis</p>
         </div>
       `,
       galeri: `
