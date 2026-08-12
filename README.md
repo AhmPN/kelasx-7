@@ -401,7 +401,7 @@
         <h2>Informasi Tugas & PR Terbaru</h2>
         <div style="background: #f8fafc; border-left: 4px solid var(--primary-color); padding: 15px; border-radius: 8px; margin-bottom: 20px;">
           <h4 style="color: var(--primary-color); margin-bottom: 5px;">Pengumuman Tugas Untuk Besok!</h4>
-          <p style="color: var(--text-muted); font-size: 0.95rem;">Informsi lihat di grub whatsapp</p>
+          <p style="color: var(--text-muted); font-size: 0.95rem;">Tidak ada tugass ya</p>
         </div>
       `,
       galeri: `
